@@ -1,0 +1,28 @@
+body {
+    color: rgb(217, 18, 18);
+    background: black;
+    margin: 0px;
+}
+
+header {
+    border-bottom: solid 3px rgb(211, 198, 18);
+    padding: 20px;
+    font-size: 30px;
+    color: rgb(211, 198, 18);
+}
+
+section {
+    background: rgb(122, 32, 32);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+
+}
+
+div {
+    margin-right: 20px;
+}
+img {
+    height: 250px;
+}
